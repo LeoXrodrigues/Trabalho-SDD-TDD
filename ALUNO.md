@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Leonardo X. Rodrigues
+Nome: Leonardo Xavier Rodrigues
 
-RA: >>> PREENCHER <<<
+RA: 23178963-2
 
 Conta GitHub: @LeoXrodrigues
 
