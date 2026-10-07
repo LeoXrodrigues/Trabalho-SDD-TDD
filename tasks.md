@@ -12,13 +12,13 @@ Tarefas em ordem de execução, com os cenários de tests.md que cada uma atende
 
 ## Fase 2 — Casos de uso
 
-- TK06: CalculadoraValor, com minutos completos, tolerância, frações e teto (RN03 a RN06). Cenários T01 a T07.
+- TK06: CalculadoraValor, com minutos completos, tolerância, frações e teto. Cenários T01 a T07.
 - TK07: UC1 e UC8, abrir bilhete com validação de placa e entrada e bloqueio de placa já aberta. Cenários T08 a T14.
 - TK08: UC2 e UC5, encerrar e cancelar bilhete. Cenários T15 a T18.
 - TK09: UC3 e UC6, listar ativos e histórico por placa, com a ordenação da RN08. Cenários T19 a T21.
-- TK10: UC4, relatório diário (RN09). Cenários T22 a T24.
+- TK10: UC4, relatório diário. Cenários T22 a T24.
 
 ## Fase 3 — Entrega
 
-- TK11 — Containerfile e Dockerfile (plan D13), README.md com execução local, Podman, Docker e testes, e .gitignore.
+- TK11 — Containerfile e Dockerfile, README.md com execução local, Podman, Docker e testes, e .gitignore.
 - TK12 — mvn test com todos os testes passando e conferência das 6 rotas contra a spec.md.
